@@ -1,4 +1,4 @@
-const API_KEY = '7345acbc5c0243a2939e555bbfeccfb4'; // Replace with your Spoonacular API key
+const API_KEY = 'your API'; // Replace with your Spoonacular API key
 const BASE_URL = 'https://api.spoonacular.com/recipes/complexSearch';
 
 // Pages
